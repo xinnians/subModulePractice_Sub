@@ -1,3 +1,6 @@
 rootProject.name='subModulePractice_Sub'
 include ':app'
 include ':mylibrary'
+include ':commonutils'
+include ':page_a'
+include ':resource'
